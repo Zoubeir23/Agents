@@ -43,7 +43,3 @@ Ajoutez ici les instructions d'utilisation ou renvoyez vers les fichiers README 
 Merci de contribuer via des issues ou des pull requests. Pour la documentation, ajoutez des fichiers `README.en.md` et `README.fr.md` et mettez à jour ce fichier pour les lier.
 
 </details>
-
----
-
-If you want this top-level README to automatically redirect visitors to a preferred language, keep `README.en.md` and `README.fr.md` at the repository root and update this file to include direct links to them. GitHub does not automatically switch README language based on browser locale, so the simplest pattern is a short bilingual index with links and a detailed per-language README file.
